@@ -44,7 +44,7 @@ export const RESUME_DATA = {
   work: [
     {
       company: "Oanob Private Hospital",
-      link: "https://www.facebook.com/groups/333159813972672/",
+      link: "",
       badges: [],
       title: "IT Technician",
       logo: ,
