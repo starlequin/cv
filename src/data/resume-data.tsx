@@ -44,10 +44,9 @@ export const RESUME_DATA = {
   work: [
     {
       company: "Oanob Private Hospital",
-      link: "",
+      link: "https://www.facebook.com/groups/333159813972672/",
       badges: [],
       title: "IT Technician",
-      logo: ,
       start: "01/2022",
       end: "01/2024",
       description:
